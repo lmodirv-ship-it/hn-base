@@ -1,0 +1,19 @@
+postgresql://neondb_owner:npg_bAIcW6VBoOF9@ep-patient-night-al1wke89.c-3.eu-central-1.aws.neon.tech/neondb?sslmode=require
+
+
+npx neonctl@latest init
+
+Host
+ep-patient-night-al1wke89.c-3.eu-central-1.aws.neon.tech
+Database
+neondb
+Role
+neondb_owner
+Password
+************
+Pooler host
+ep-patient-night-al1wke89-pooler.c-3.eu-central-1.aws.neon.tech
+
+admin@1234n
+
+postgresql://neondb_owner:npg_bAIcW6VBoOF9@ep-patient-night-al1wke89.c-3.eu-central-1.aws.neon.tech/neondb?sslmode=require
